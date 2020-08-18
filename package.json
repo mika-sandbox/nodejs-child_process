@@ -1,0 +1,14 @@
+{
+  "name": "@mika-sandbox/nodejs-child_process",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
